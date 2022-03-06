@@ -1,0 +1,17 @@
+Question 1:
+
+android:layout_marginBottom="8dp"
+
+android:layout_marginTop="8dp"
+
+Question2:
+
+android:layout_marginBottom="8dp"
+
+Question3:
+
+public void callMethod(View view)
+
+Question4:
+
+Use the view parameter that is passed to the click handler with setBackgroundColor(): view.setBackgroundColor()
