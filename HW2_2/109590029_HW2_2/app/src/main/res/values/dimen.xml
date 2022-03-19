@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewSize">32sp</dimen>
+    <dimen name="editTextSize">24sp</dimen>
+    <dimen name="textViewSize_land">64sp</dimen>
+    <dimen name="editTextSize_land">32sp</dimen>
+</resources>
