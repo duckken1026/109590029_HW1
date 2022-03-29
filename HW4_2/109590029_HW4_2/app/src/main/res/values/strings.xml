@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">109590029_HW4_2</string>
+    <string name ="ButtonName0">Chocolate syrup</string>
+    <string name ="ButtonName1">Sprinkles</string>
+    <string name ="ButtonName2">Crushed nuts</string>
+    <string name ="ButtonName3">Cherries</string>
+    <string name ="ButtonName4">Orio cookie crumbles</string>
+    <string name ="ButtonName5">Show Toast</string>
+    <string name ="toppings_label">Toppings:</string>
+</resources>
